@@ -1,1 +1,1 @@
-# adguard-beta-3.14
+# adguard-beta-3.4
